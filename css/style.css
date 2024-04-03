@@ -124,16 +124,6 @@ body {
 
 .skill-list li:nth-child(6) {
     background-image: url(../img/portfolio-06.jpg);
-    line-height: 2;
-}
-
-.under-construction {
-    display: block;
-    font-size: 20px;
-    line-height: 1;
-    color: red;
-    text-align: center;
-    padding-bottom: 30px;
 }
 
 
